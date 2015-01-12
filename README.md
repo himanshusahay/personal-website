@@ -1,2 +1,2 @@
 # personal-website
-This is a mobile first website and is a work in progress.
+This is a mobile first website which is a work in progress.
