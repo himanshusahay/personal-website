@@ -36,6 +36,7 @@ h6 {
   font-weight: 700;
   color: #778492;
 }
+
 a {
   color: #3aaa64;
   -webkit-transition: all 0.4s ease-in-out;
@@ -70,6 +71,7 @@ a.btn-cta-primary,
 .btn-cta-primary {
   background: #54ba4e;
   border: 1px solid #54ba4e;
+  margin: 0 3px 0 3px;
   color: #fff;
   font-weight: 600;
   text-transform: uppercase;
@@ -94,6 +96,7 @@ a.btn-cta-secondary:hover,
   border: 1px solid #3893bd;
   color: #fff;
 }
+
 .text-highlight {
   color: #32383e;
 }
@@ -370,23 +373,6 @@ iframe {
         height: 100!important;
 }
 
-/* ======= Footer ======= */
-.footer {
-  background: #32383e;
-  color: #fff;
-  padding: 10px 0;
-}
-.footer .copyright {
-  line-height: 1.6;
-  color: #a1aab4;
-  font-size: 14px;
-}
-.footer a {
-  color: #fff;
-}
-.footer .fa-heart {
-  color: #fb866a;
-}
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 767px) {
   .header {
